@@ -22,7 +22,6 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 👋 Hi, I’m @Jacarrilloc  
   
@@ -35,9 +34,6 @@
 
 </td><td valign="top" width="50%">
 
-
-
-</td></tr></table>  
 
 <br/>  
 
