@@ -29,7 +29,7 @@
 - 👀 I’m interested in develop android proyects  
   
 
-- 🌱 I’m currently learning Golang  
+- 🌱 I’m currently Practice Angular
 
 
 </td><td valign="top" width="50%">
