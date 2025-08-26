@@ -29,7 +29,9 @@
 - 👀 I’m interested in develop android proyects  
   
 
-- 🌱 I’m currently Practice and learning .NET framework and PHP proyects
+- 🌱 I’m currently Practice and learning .NET framework
+
+- I Have experience in Java and PHP programming language
 
 
 </td><td valign="top" width="50%">
